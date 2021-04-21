@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/global.scss"],"names":[],"mappings":"AAKA,KAEI,QAAS,CACT,SAAU,CACV,cAAe,CACf,gCAAkC","file":"main.4fa39525.chunk.css","sourcesContent":["html {\r\n    \r\n    \r\n}\r\n\r\nbody {\r\n    \r\n    margin: 0;\r\n    padding: 0;\r\n    font-size: 16px;\r\n    font-family: 'Poppins', sans-serif;\r\n}\r\n"]}
